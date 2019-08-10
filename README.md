@@ -14,6 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-<div style="width: 10%;">
-  <img src="print.gif" width="300px" style="display: block; margin: 0 auto;">
+<div style="width: 10%;display: flex; justify-content: center;">
+  <img src="print.gif" width="300px">
 </div>
